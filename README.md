@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Automation+Architect+%26+AI+Sys+Buildr;n8n+%26+Make)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Automation%20Architect%20%26%20AI%20System...;A.I%20and%20M.L.%20in%20its%20technicaliti...;Based%20in%20Oran%20%2C%20Algeria)](https://git.io/typing-svg)
 
 </div>
 
