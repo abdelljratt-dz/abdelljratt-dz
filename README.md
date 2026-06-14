@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Automation Architect & AI Systems Integrator
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Automation+Architect+%26+AI+Sys+Buildr;n8n+%26+Make)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Passionate about transforming complex problems into streamlined solutions through automation and AI. With a flair for innovative integration, I thrive on enhancing productivity and efficiency in every project.
 
-- 🏢 Working at **Freelancer on Upwork** in **Oran , Algeria**
+- 🏢 Working as **Freelancer on Upwork** in **Oran , Algeria**
 - 🌱 Currently learning **A.I and M.L. in its technicalities to unlock new potentials .**
 - 💬 Ask me about **Business Process Automation, n8n, and how AI can transform the workspace.**
 - ⚡ I'm definitely obsessed with coffee ! Also, I can't resist a good Hans Zimmer masterpiece !
