@@ -10,7 +10,7 @@
 
 Passionate about transforming complex problems into seamless automated solutions. I thrive on leveraging technology to enhance workflows and boost productivity, all while keeping a creative touch.
 
-- 🏢 Working at **Freelancer on Upwork** in **Oran, Algeria**
+- 🏢 Working as a **Freelancer on Upwork** in **Oran, Algeria**
 - 🌱 Currently learning **Artificial Intelligence & Machine Learning to unlock new possibilities.**
 - 💬 Ask me about **Business Process Automation, n8n, API integrations...**
 - ⚡ I'm a coffee enthusiast and a fan of Hans Zimmer's masterpieces !
