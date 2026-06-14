@@ -8,7 +8,7 @@
 
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
-Passionate about transforming complex problems into seamless automated solutions. I thrive on leveraging technology to enhance workflows and boost productivity, all while keeping a creative touch.
+Passionate about transforming complex problems into practical solutions. I thrive on leveraging technology to enhance processes and boost productivity, all while keeping a creative touch.
 
 - 🏢 Working as a **Freelancer on Upwork** in **Oran, Algeria**
 - 🌱 Currently learning **Artificial Intelligence & Machine Learning to unlock new possibilities.**
