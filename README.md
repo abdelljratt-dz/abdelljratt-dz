@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Automation%20Architect%20%26%20AI%20System...;A.I%20and%20M.L.%20in%20its%20technicaliti...;Based%20in%20Oran%20%2C%20Algeria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=510&height=62&lines=Automation+Architect+%26+AI+Systems+Builder;n8n+%26+Make)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,9 @@ Passionate about transforming complex problems into streamlined solutions throug
 - ⚡ I'm definitely obsessed with coffee ! Also, I can't resist a good Hans Zimmer masterpiece !
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
-
+<div align="center">
 ![n8n](https://img.shields.io/badge/n8n-333?style=for-the-badge&logo=n8n&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-333?style=for-the-badge&logo=makedotcom&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![API Handling](https://img.shields.io/badge/API%20Handling-333?style=for-the-badge&logo=apihandling&logoColor=white)
-
+</div>
 ![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
 <div align="center">
